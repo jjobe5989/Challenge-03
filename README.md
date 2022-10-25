@@ -16,17 +16,7 @@ This README contains the following information for the work I have done in this 
 
 This is a screenshot of my first Javascript project containing a password generator. The generator itself lets you input a password length from 8 to 128 characters, and also lets you pick if you want numbers, symbols, lowercase, and uppercase letters. It takes your input and gives you a randomized password with your specifications.
 
-![Screenshot (14)](https://user-images.githubusercontent.com/24994854/196335547-81e44235-15a5-42f6-ae31-6f322cbe5c7f.png)
-
-<h1>Searh Engine Optimization</h1>
-The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
-
-
-<h1>Online Reputation Management</h1>
-Online Reputation Management gives you control over what your future customers find when they search for your business. This allows you to give your business a better chance of success on future marketing. Good reviews can make a huge difference on whether a customer chooses you over another business.
-
-<h1>Social Media Marketing</h1>
-With mobile internet use at an all time high and a steady increase for years to come, users are constantly searching for the right buisness as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your business' visibility and find the right customers for your brand.
+![Screenshot (1)](https://user-images.githubusercontent.com/24994854/197860132-1efef01c-8678-4e7f-80ea-f8ef870ae2f9.png)
 
 <h1>Changes</h1>
 The following items are all that I changed while working on this project.
